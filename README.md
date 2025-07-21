@@ -1,5 +1,5 @@
 # EXE-Loader
-lightweight, configurable Windows launcher designed to start multiple executables in one click on Windows, SteamOS, SteamDeck
+a lightweight, configurable Windows launcher designed to start multiple executables in one click on Windows, SteamOS, SteamDeck
 
 <img width="690" height="742" alt="image" src="https://github.com/user-attachments/assets/2df4cc2a-b63a-4e98-923e-90432649e2c8" />
 
